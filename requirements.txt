@@ -1,5 +1,6 @@
 langchain-google-genai 
 langgraph
+python-dotenv
 presidio-analyzer 
 presidio-anonymizer 
 spacy
